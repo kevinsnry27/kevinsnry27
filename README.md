@@ -1,12 +1,12 @@
-# Hello World, I'm Kevin👋
+# Hello World, I'm Kevin
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Web+Developer+in+Training;From+Bali%2C+Indonesia;Always+Learning+New+Things)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Web+Developer+in+Training;From+Medan%2C+Indonesia;Always+Learning+New+Things)
 
 ---
 
 ## About Me
 
-- 🌍 Based in **Bali, Indonesia**
+- 🌍 Based in **Medan, Indonesia**
 - 💻 Passionate Web Development Learner
 - 🔥 Always trying to improve
 
@@ -29,4 +29,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinsnry27)
 
 ---
-
