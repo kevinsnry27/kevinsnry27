@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🌍 Based in **Medan, Indonesia**
+- 🌍 Based in **Bali, Indonesia**
 - 💻 Passionate Web Development Learner
 - 🔥 Always trying to improve
 
