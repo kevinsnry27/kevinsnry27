@@ -19,7 +19,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🐍 Snake Game
 
 ![Snake eating my GitHub contributions](https://github.com/kevinsnry27/kevinsnry27/blob/output/github-contribution-grid-snake.svg)
 
