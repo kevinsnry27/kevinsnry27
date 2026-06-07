@@ -1,4 +1,4 @@
-# Hello World, My Name Is Kevin
+# Hello Everyone, My Name Is Kevin
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Web+Developer+in+Training;From+Medan%2C+Indonesia;Always+Learning+New+Things)
 
